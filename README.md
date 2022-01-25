@@ -15,4 +15,6 @@ The Goal of this notebook is to apply a dimensionality reduction on a big datase
 
 - __main.ipynb__ is the main notebook 
 - __functions.py__ contains the kmeans functions
-- __data__ is a folder of _.pickle_ files that are the already processed data necessary to run the notebook.
+- __data__ is a folder which contains:
+     - _pca.pickle_ the dataset with the PCA already applied
+     - _tracks.pickle.zip_ azipped pickle file of the tracks dataset used for the pivotal table
