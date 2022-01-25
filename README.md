@@ -17,4 +17,4 @@ The Goal of this notebook is to apply a dimensionality reduction on a big datase
 - __functions.py__ contains the kmeans functions
 - __data__ is a folder which contains:
      - _pca.pickle_ the dataset with the PCA already applied
-     - _tracks.pickle.zip_ azipped pickle file of the tracks dataset used for the pivotal table
+     - _tracks.pickle.zip_ a zipped pickle file of the tracks dataset used for the pivotal table
